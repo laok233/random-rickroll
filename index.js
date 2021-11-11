@@ -7,7 +7,7 @@ async function run() {
     var message;
     if(percentage > Math.floor(Math.random() * 100)){
         message = '![rickroll](https://user-images.githubusercontent.com/37572049/90699500-0cc3ec00-e2a1-11ea-8d13-989526e86b0e.gif)';
-        console.log('never gonna give u up \n never gonna let u down \n never gonna run around and desert u \n never gonna make u cry \n never gonna say goodbye \n never gonna tell a lie and hurt u');
+        console.log('never gonna give u up \nnever gonna let u down \nnever gonna run around and desert u \nnever gonna make u cry \nnever gonna say goodbye \nnever gonna tell a lie and hurt u');
         
     }else{
         console.log('Fine you win this time.');
